@@ -3,7 +3,7 @@ using UnityEngine;
 public class MouseMove : MonoBehaviour
 {
 
-    public float mouseSensitivity = 100f;
+    public float mouseSensitivity = 200f;
 
     float xRotation = 0f;
     float yRotation = 0f;
